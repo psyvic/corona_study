@@ -12,7 +12,7 @@ For some extra analysis, information was recovered from Our World In Data(https:
 
 For ease of use, all the datasets used are on this repository, but the datasets can be downloaded directly from their sources aforementioned.
 
-In order to use the notebook work you will need the following packages:
+In order to use the notebook work you will need the following packages (all the packages are updated to the latest version as of setp 2020):
 
 - pandas
 - numpy
